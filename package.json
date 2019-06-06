@@ -1,0 +1,20 @@
+{
+  "name": "test-pipleline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammedabdelkarym/test-pipleline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammedabdelkarym/test-pipleline/issues"
+  },
+  "homepage": "https://github.com/Mohammedabdelkarym/test-pipleline#readme"
+}
