@@ -5,11 +5,18 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "node index.js"
+    "runs": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mohammedabdelkarym/test-pipleline.git"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "6.1.4",
+    "supertest": "4.0.2"
   },
   "author": "",
   "license": "ISC",
